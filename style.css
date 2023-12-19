@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: wheat;
+}
+p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: wheat;
+}
+div{
+    text-align: center;
+}
+body{
+    background-color:black;
+}
+#paragraf{
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    width: 75%;
+    padding-inline: 10%;
+    color: white;
+}
